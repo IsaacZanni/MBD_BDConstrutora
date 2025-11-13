@@ -1,0 +1,185 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.2">
+  <diagram name="Página-1" id="D2zvgmkwr94TeZZUhM0E">
+    <mxGraphModel dx="1930" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="neYIloyP65PZ-HpkXili-1" value="Departamento" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-2" value="Nome" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="180" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="neYIloyP65PZ-HpkXili-3" target="neYIloyP65PZ-HpkXili-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-3" value="Sigla" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="120" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-4" value="Código" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="60" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.13;entryY=1.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="neYIloyP65PZ-HpkXili-2" target="neYIloyP65PZ-HpkXili-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.14;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="neYIloyP65PZ-HpkXili-4" target="neYIloyP65PZ-HpkXili-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-56" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-9" value="Projeto" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="570" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="neYIloyP65PZ-HpkXili-10" target="neYIloyP65PZ-HpkXili-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-10" value="Código" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="540" y="40" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="neYIloyP65PZ-HpkXili-12" target="neYIloyP65PZ-HpkXili-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-12" value="Nome" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="40" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-14" value="Data de Início" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="660" y="40" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-16" value="Data de Término" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="720" y="40" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.67;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="neYIloyP65PZ-HpkXili-14" target="neYIloyP65PZ-HpkXili-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.93;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="neYIloyP65PZ-HpkXili-16" target="neYIloyP65PZ-HpkXili-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="745" y="110" />
+              <mxPoint x="663" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-23" value="ProjetoColaborador" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="420" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-24" value="Pertence" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-31" value="Colaborador" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="210" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="neYIloyP65PZ-HpkXili-33" target="neYIloyP65PZ-HpkXili-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-33" value="Código" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="140" y="370" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-34" value="Nome" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="370" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="neYIloyP65PZ-HpkXili-36" target="neYIloyP65PZ-HpkXili-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-36" value="Data Nasc." style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="370" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.15;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="neYIloyP65PZ-HpkXili-34" target="neYIloyP65PZ-HpkXili-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="neYIloyP65PZ-HpkXili-41" target="neYIloyP65PZ-HpkXili-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-41" value="Função" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="neYIloyP65PZ-HpkXili-42" target="neYIloyP65PZ-HpkXili-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-42" value="Gestor" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="370" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-46" value="Pertence" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-47" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="neYIloyP65PZ-HpkXili-1" target="neYIloyP65PZ-HpkXili-46">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="360" y="300" as="sourcePoint" />
+            <mxPoint x="460" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-48" value="(1,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="neYIloyP65PZ-HpkXili-47">
+          <mxGeometry x="0.0348" y="1" relative="1" as="geometry">
+            <mxPoint x="-9" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-49" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="neYIloyP65PZ-HpkXili-1" target="neYIloyP65PZ-HpkXili-24">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="40" y="150" as="sourcePoint" />
+            <mxPoint x="270" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-50" value="(1,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="neYIloyP65PZ-HpkXili-49">
+          <mxGeometry x="0.0348" y="1" relative="1" as="geometry">
+            <mxPoint x="18" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-51" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="neYIloyP65PZ-HpkXili-24" target="neYIloyP65PZ-HpkXili-31">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="230" y="270" as="sourcePoint" />
+            <mxPoint x="200" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-52" value="(0,n)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="neYIloyP65PZ-HpkXili-51">
+          <mxGeometry x="-0.4353" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-53" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="neYIloyP65PZ-HpkXili-23" target="neYIloyP65PZ-HpkXili-31">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="320" y="210" as="sourcePoint" />
+            <mxPoint x="350" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-54" value="(0,n)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="neYIloyP65PZ-HpkXili-53">
+          <mxGeometry x="-0.4353" y="1" relative="1" as="geometry">
+            <mxPoint x="-39" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-55" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="neYIloyP65PZ-HpkXili-46" target="neYIloyP65PZ-HpkXili-9">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="430" y="270" as="sourcePoint" />
+            <mxPoint x="320" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-56" value="(0,n)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="neYIloyP65PZ-HpkXili-55">
+          <mxGeometry x="-0.4353" y="1" relative="1" as="geometry">
+            <mxPoint x="26" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-57" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="neYIloyP65PZ-HpkXili-23" target="neYIloyP65PZ-HpkXili-9">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="430" y="270" as="sourcePoint" />
+            <mxPoint x="320" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neYIloyP65PZ-HpkXili-58" value="(0,n)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="neYIloyP65PZ-HpkXili-57">
+          <mxGeometry x="-0.4353" y="1" relative="1" as="geometry">
+            <mxPoint x="-29" y="-44" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
